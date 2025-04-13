@@ -1,6 +1,8 @@
 # Deep-Stereo-Vision-for-Nighttime-Driving-Scenes
 Deep Stereo Vision for nighttime driving scenes
 
+![pred_0](https://github.com/user-attachments/assets/1e691614-f9d9-4be8-bd3e-de4afabb8bc1)
+
 This project aims to apply deep stereo vision techniques to accurately localise objects in the surrounding environment and optimise the illumination conditions. Additionally, the project has a target to test various lighting conditions to determine the optimal setup for achieving the best object localisation performance in different environments.
 
 ## Hypothesis 
